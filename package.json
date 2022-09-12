@@ -1,8 +1,8 @@
 {
-  "name": "react-medals1",
+  "name": "react-medals-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://amg262.github.io/react-medal-app",
+  "homepage": "https://amg262.github.io/react-medals-app",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
