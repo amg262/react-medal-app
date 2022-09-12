@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-medal-app/static/css/main.f2277037.css",
+    "main.js": "/react-medal-app/static/js/main.e8d62fbe.js",
+    "static/js/787.53ea0170.chunk.js": "/react-medal-app/static/js/787.53ea0170.chunk.js",
+    "index.html": "/react-medal-app/index.html",
+    "main.f2277037.css.map": "/react-medal-app/static/css/main.f2277037.css.map",
+    "main.e8d62fbe.js.map": "/react-medal-app/static/js/main.e8d62fbe.js.map",
+    "787.53ea0170.chunk.js.map": "/react-medal-app/static/js/787.53ea0170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2277037.css",
+    "static/js/main.e8d62fbe.js"
+  ]
+}
